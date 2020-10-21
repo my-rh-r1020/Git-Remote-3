@@ -1,2 +1,4 @@
 let nama = prompt("Enter Your Name");
-let nim = prompt("Enter Your NIM");
+let nim = parseInt(prompt("Enter Your NIM"));
+
+console.log(nama, nim);
